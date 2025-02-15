@@ -4,6 +4,8 @@
 
 -C언어와 OpenCV를 사용해 작성되었습니다.
 
+-자세한 내용은 리포트 파일에 설명되어있습니다
+
 [예시]
 
 ![source1](https://github.com/user-attachments/assets/a2829120-36d9-4ee5-855f-52aaaad3ad76)
