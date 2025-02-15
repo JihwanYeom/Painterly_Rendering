@@ -1,0 +1,12 @@
+﻿  Assignment4.cpp
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(25,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(59,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(85,19): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(92,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(232,19): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(235,19): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(248,38): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(250,38): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(277,9): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Assignment4.cpp(278,9): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Assignment4.vcxproj -> C:\Users\yum02\Desktop\MultimediaProgramming\Assignment4\Debug\Assignment4.exe
